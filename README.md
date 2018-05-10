@@ -1,1 +1,1 @@
-Practise projects with tutorials for Apache Spark
+Practice projects with tutorials for Apache Spark
